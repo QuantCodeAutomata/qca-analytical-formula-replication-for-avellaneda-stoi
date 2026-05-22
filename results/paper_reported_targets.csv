@@ -1,0 +1,5 @@
+gamma,strategy,Spread,Profit,std_Profit,Final_q,std_Final_q
+0.1,inventory,1.29,62.94,5.89,0.1,2.8
+0.1,symmetric,1.29,67.21,13.43,-0.018,8.66
+0.01,inventory,1.33,,,,
+0.5,inventory,1.15,,,,

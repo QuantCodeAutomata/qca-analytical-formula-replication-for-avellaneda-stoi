@@ -1,0 +1,8 @@
+max_err_r_eq_midpoint: 1.4210854715202004e-14
+q0_r_equals_s: 0.0
+t_to_T_r_to_s: 0.0
+max_err_total_spread_identity: 1.3322676295501878e-14
+max_err_general_vs_closed_form: 8.881784197001252e-16
+infinite_horizon_admissible_low_omega: False
+infinite_horizon_admissible_high_omega: True
+frozen_value_q0_err: 0.0

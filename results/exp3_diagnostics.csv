@@ -1,0 +1,7 @@
+label,gamma,strategy,spread_mode,price_model,fill_model,prob_handling,simultaneous_fills,viol_ask_pct,viol_bid_pct,neg_delta_ask_pct,neg_delta_bid_pct,simultaneous_pct,avg_fills_ask_per_path,avg_fills_bid_per_path,mean_profit,std_profit,mean_final_q,std_final_q
+exp3_inventory_g0.1,0.1,inventory,equation_faithful,binomial,bernoulli,raw,True,0.0085,0.007,0.069,0.061,5.1895,48.26,48.335,64.53311939336201,6.418117114250278,0.075,2.9928874018245324
+exp3_symmetric_g0.1,0.1,symmetric,equation_faithful,binomial,bernoulli,raw,True,0.0,0.0,0.0,0.0,5.244,45.511,45.939,67.18575973977184,12.917223453414215,0.428,8.448006628785278
+exp3_inventory_g0.01,0.01,inventory,equation_faithful,binomial,bernoulli,raw,True,0.0,0.0,0.0,0.0,6.4155,51.038,50.894,68.06632684027694,8.886109036581306,-0.144,5.385653535087456
+exp3_symmetric_g0.01,0.01,symmetric,equation_faithful,binomial,bernoulli,raw,True,0.0,0.0,0.0,0.0,6.444,50.862,50.732,67.87045408649932,13.663484023421589,-0.13,8.985939016040561
+exp3_inventory_g0.5,0.5,inventory,equation_faithful,binomial,bernoulli,raw,True,1.305,1.239,3.5855,3.5405,2.695,38.902,39.059,48.427086337462974,5.718526024594402,0.157,1.9407088911013934
+exp3_symmetric_g0.5,0.5,symmetric,equation_faithful,binomial,bernoulli,raw,True,0.0,0.0,0.0,0.0,2.7,30.281,30.588,58.62862546032655,10.856077668684726,0.307,7.16371070046802
